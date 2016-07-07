@@ -1,8 +1,5 @@
 # SkilStak Pro Project Plan - Summer 2016
 
-*Replace this text here with a general overview and idea of your
-project in detail. About a paragraph.*
-
 The goal of my project is to create a randomly generated RPG (role-playing game) in the Python programmming language.  In the game, the player will use text commands to move through a grid.  Some areas on the grid can be walked over, while others cannot.  The player will sometimes encounter enemies, which they must fight in turn-based battles.  They may also come across helpful items in the maze.  The game is won by finding the special exit tile in the grid.
 
 ## Objectives
