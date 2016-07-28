@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+I created a game that generates a random dungeon for the player to explore and eventually escape from.
 
 ## What will you do next week?
 
-*Your answer.*
+Improve dungeon generation and add a battle system.
 
 ## Do you have any blockers?
 
-*Your answer.*
+The game has the potential to be unbeatable sometimes.
 
