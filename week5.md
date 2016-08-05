@@ -2,7 +2,7 @@
 
 ## What did you do last week?
 
-I improved the dungeon generation and added a battle system.
+I improved dungeon generation and added a battle system.
 
 ## What will you do next week?
 
