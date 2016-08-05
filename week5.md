@@ -2,13 +2,13 @@
 
 ## What did you do last week?
 
-*Your answer.*
+I improved the dungeon generation and added a battle system.
 
 ## What will you do next week?
 
-*Your answer.*
+Improve the battle system and add items.
 
 ## Do you have any blockers?
 
-*Your answer.*
+I am having problems figuring out where to place the battle system in the program.
 
